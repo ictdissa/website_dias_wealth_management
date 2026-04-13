@@ -4,6 +4,8 @@ A modern multi-page corporate website for a wealth management firm, built with N
 
 This project was created to showcase a polished financial-services brand presence with a strong focus on trust, clarity, responsive design, and production-ready frontend architecture.
 
+link: https://website-dias-wealth-management.vercel.app
+
 ---
 
 ## Overview
@@ -152,9 +154,7 @@ This project can be deployed on platforms that support Next.js, including:
 - Docker
 - Node.js VPS hosting
 
-For production deployment, update:
 
-NEXT_PUBLIC_SITE_URL=https://your-domain.com
 
 ---
 
