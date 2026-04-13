@@ -39,7 +39,6 @@ The goal of the project was to build a website that feels credible, premium, and
 ## Screenshots
 ### Home
 ![Home Page](./docs/screenshots/home1.png)
-![Home Page](./docs/screenshots/home2.png)
 
 ### About
 ![About Page](./docs/screenshots/about.png)
